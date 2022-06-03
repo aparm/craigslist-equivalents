@@ -17,6 +17,10 @@ a {
     font-weight: bold;
 }
 
+p {
+    font-size: 22px;
+}
+
 main {
     width: 70%;
     min-width: 300px;
